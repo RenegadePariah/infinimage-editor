@@ -6,6 +6,8 @@ Noise: given a sufficient number of monkeys, each with a typewriter, one will ev
 
 Weave: each column and row of pixels composing an image can be thought of as a sinusoidal wave of some arbitrary complexity. This wave can be furthered backwards and frontwards, thus establishing a "weave"-type appearance, with no beginning and no end.
 
+Pattern: monotonous, discrete weave.
+
 ---
 
 2. Installation instructions
